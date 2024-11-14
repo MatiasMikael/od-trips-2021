@@ -53,7 +53,7 @@ This project includes the following scripts:
 
 ### Bike Usage by Hour and Weekday
    - This heatmap visualizes bike usage by hour and day of the week. Darker shades indicate higher usage levels. The chart reveals that bike usage tends to peak in the afternoon on weekdays, particularly after work hours.
-   - 
+
 # 5. Data Source and License
 
 The data used in this project is sourced from Helsinki Region Transport's (HSL) open data portal.
